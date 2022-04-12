@@ -1,5 +1,5 @@
 .inicio
 {
-    background-color: #B7CCE0;
+    background-color: linear-gradient(90deg, #d8ff38 0, #bdff3d 12.5%, #9bff3f 25%, #6fff40 37.5%, #1ef33e 50%, #00e640 62.5%, #00db47 75%, #00d353 87.5%, #00cf62 100%);
     border-radius: 30px;
 }
