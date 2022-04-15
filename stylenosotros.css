@@ -3,7 +3,35 @@
     background-color: white;
 
 }
+.cuerpo
+{
+    background-color: #221c22 ;
+}
+.imageL01
+{
+    float: left;
+    margin-bottom:10%;
+    margin-left: -425px;
+    width:800px;
+}
+.somos
+{
+    text-align: left;
+    color: beige;
+    
+}
+.hacemos
+{
+    text-align: right;
+    color: beige;
+}
 .mision
 {
     border-radius: 200px;
+    text-align: center;
+    color: beige;
+}
+.metas
+{
+    color: beige;
 }
