@@ -10,6 +10,27 @@
     text-align: center;
 }
 
-  .carousel-inner img {
+.carousel-inner img {
     height: 550px;
-  }
+}
+
+
+.oferta{
+    text-align: center;
+
+}
+
+.card-body{
+    margin: auto;
+    
+
+}
+.card-body img{
+    width: 350px;
+    height: 300px;
+    
+}
+
+.card-title{
+    text-align: center;
+}
