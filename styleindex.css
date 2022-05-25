@@ -9,3 +9,7 @@
 .navbar-nav{
     text-align: center;
 }
+
+  .carousel-inner img {
+    height: 550px;
+  }
