@@ -1,5 +1,5 @@
 .carousel-inner{
-    height: 600px;
+    height: 650px;
 }
 
 .img-of{
@@ -11,7 +11,7 @@
 }
 
 .carousel-inner img {
-    height: 550px;
+    height: 600px;
 }
 
 
@@ -33,4 +33,24 @@
 
 .card-title{
     text-align: center;
+}
+
+.col-sm-7 p{
+    text-align: justify;
+    align-items: center;
+    padding: 50px;
+}
+
+.col-sm-5 img{
+    margin-left: 20px;
+    
+}
+
+.card-body img{
+
+    height:"280px";
+    
+    border-radius: 30px;
+
+    
 }
