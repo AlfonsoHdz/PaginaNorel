@@ -35,3 +35,27 @@
 {
     color: beige;
 }
+
+.h2Descripcion
+{
+    text-align: center;
+}
+.h2Descripcion2
+{
+    text-align: center;
+    color: aliceblue;
+}
+.foot
+{
+    text-align: center;
+    color: aliceblue;
+}
+.valores
+{
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+}
+.planta{
+    text-align: center;
+}
