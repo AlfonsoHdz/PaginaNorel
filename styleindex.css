@@ -67,4 +67,11 @@
 
 .col-sm-4 img{
     height: 250px;
+    border-radius:30px;
+}
+
+.card-title a{
+    text-decoration: none;
+    color: black;
+ 
 }
