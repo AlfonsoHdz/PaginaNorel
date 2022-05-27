@@ -1,3 +1,4 @@
+
 .carousel-inner{
     height: 650px;
 }
@@ -60,10 +61,7 @@
     border-radius:30px;
 }
 
-.card:hover{
-    background: rgb(215, 240, 223);
-    transition-duration: 2s;
-}
+
 
 .col-sm-4 img{
     height: 250px;
@@ -78,4 +76,26 @@
 
 .correct{
     height: 382px;
+}
+
+.card-body img{
+    cursor: pointer;
+    box-shadow: 0px 15px 23px;
+
+}
+
+.card-body a:visited{
+    color: black;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    transition-duration: 1.4s;
+    z-index: 5;
+
+}
+
+.card-title a:hover{
+    color: #76BF2C;
+
 }
