@@ -18,6 +18,7 @@
 
 .oferta{
     text-align: center;
+    
 
 }
 
@@ -37,7 +38,7 @@
 }
 
 .col-sm-7 p{
-    text-align: justify;
+    
     align-items: center;
     padding: 50px;
 }
@@ -100,6 +101,15 @@
 
 }
 
+.frase{
+    
+    border-radius: 30px;
+}
+
+.queserv{
+    background-color: #caecab;
+    border-radius: 30px;
+}
 
 /*Estilos para el footer*/
 .contactoPie{
