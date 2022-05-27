@@ -59,3 +59,23 @@
 .planta{
     text-align: center;
 }
+.contactoPie{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 500;
+}
+.contactoPP{
+    text-align: center;
+    color: aliceblue;
+}
+.logoPie{
+    text-align: center;
+}
+.frasePie{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 25px;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 500;
+}
