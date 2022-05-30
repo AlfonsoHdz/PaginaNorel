@@ -59,6 +59,10 @@
 .planta{
     text-align: center;
 }
+.separador
+{
+    height: 5px;
+}
 
 /*Estilos para el footer*/
 .contactoPie{
