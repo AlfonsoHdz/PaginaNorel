@@ -1,7 +1,6 @@
-.cuerpoServicios{
-    
+.navbar-nav{
+    text-align: center;
 }
-
 .inicio
 {
     background-color: linear-gradient(90deg, #d8ff38 0, #bdff3d 12.5%, #9bff3f 25%, #6fff40 37.5%, #1ef33e 50%, #00e640 62.5%, #00db47 75%, #00d353 87.5%, #00cf62 100%);
@@ -16,9 +15,37 @@
     font-weight: 400;
     font-style: italic;
     width: 550px;
+    color: beige;
 }
 .datos :hover{
     color: #44B84E;
     transform: scale(1.1);
     transition-duration: 1s;
+}
+.cuerpoServicios{
+    background-color: #221c22 ;
+}
+.h2{
+    color: beige;
+}
+/*Estilos para el footer*/
+.contactoPie{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 500;
+}
+.contactoPP{
+    text-align: center;
+    color: aliceblue;
+}
+.logoPie{
+    text-align: center;
+}
+.frasePie{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 25px;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 500;
 }

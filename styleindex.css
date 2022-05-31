@@ -1,78 +1,48 @@
-
 .carousel-inner{
     height: 650px;
 }
-
 .img-of{
     margin-left: 20px;
 }
-
 .navbar-nav{
     text-align: center;
 }
-
 .carousel-inner img {
     height: 600px;
 }
-
-
 .oferta{
     text-align: center;
-    
-
 }
-
 .card-body{
     margin: auto;
-    
-
 }
-.card-body img{
-    
-    height: 250px;
-    
+.card-body img{ 
+    height: 250px; 
 }
-
 .card-title{
     text-align: center;
 }
-
 .col-sm-7 p{
-    
     align-items: center;
     padding: 50px;
 }
-
 .col-sm-5 img{
     margin-left: 20px;
-    
 }
-
 .card-body img{
-
-  
-    width: "200px";
-    
+    width: "200px";  
     border-radius: 30px;
-
-    
 }
-
 .card{
     border-radius:30px;
 }
-
-
-
 .col-sm-4 img{
     height: 250px;
     border-radius:30px;
 }
-
 .card-title a{
     text-decoration: none;
     color: black;
- 
 }
 
 .correct{

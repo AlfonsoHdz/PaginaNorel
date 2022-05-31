@@ -1,11 +1,10 @@
-.inicio
-{
-    background-color: white;
-
+.navbar-nav{
+    text-align: center;
 }
 .cuerpo
 {
     background-color: #221c22 ;
+    /* background-color: black; */
 }
 .imageL01
 {
@@ -63,7 +62,11 @@
 {
     height: 5px;
 }
-
+.separador{
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
 /*Estilos para el footer*/
 .contactoPie{
     text-align: center;

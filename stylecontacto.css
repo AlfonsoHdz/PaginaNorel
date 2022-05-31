@@ -1,19 +1,17 @@
+.navbar-nav{
+    text-align: center;
+}
 .inicio
 {
     border-radius: 30px;
 }
-
-
 .mt-5 img{
-    height: 230px;
-    
+    height: 230px; 
 }
-
 .mt-5{
     align-items: center;
 
 }
-
 .col-sm-5 p{
     font-size: larger;
 }
