@@ -1,3 +1,7 @@
+.cuerpoIndex{
+    background-color: #221c22;
+}
+
 .carousel-inner{
     height: 650px;
 }
@@ -25,6 +29,7 @@
 .col-sm-7 p{
     align-items: center;
     padding: 50px;
+    color: beige;
 }
 .col-sm-5 img{
     margin-left: 20px;
@@ -35,6 +40,7 @@
 }
 .card{
     border-radius:30px;
+    ;
 }
 .col-sm-4 img{
     height: 250px;
@@ -42,7 +48,11 @@
 }
 .card-title a{
     text-decoration: none;
-    color: black;
+    color: beige;
+}
+
+.col .card{
+    background-color:#221c22;
 }
 
 .correct{
@@ -51,11 +61,15 @@
 
 .card-body img{
     cursor: pointer;
-    box-shadow: 0px 15px 23px;
+  
 
 }
 
 .card-body a:visited{
+    color: black;
+}
+
+.card-body a:link{
     color: black;
 }
 
@@ -76,9 +90,22 @@
     border-radius: 30px;
 }
 
-.queserv{
-    background-color: #caecab;
-    border-radius: 30px;
+.queserv p{
+    color: aliceblue;
+    
+}
+
+.separador
+{
+    height: 5px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+.roles{
+    color: beige;
+    
 }
 
 /*Estilos para el footer*/
