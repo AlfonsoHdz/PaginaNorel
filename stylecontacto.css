@@ -13,6 +13,62 @@
 
 }
 .col-sm-5 p{
-    font-size: larger;
+    font-size: 19px;
+    color: beige;
 }
 
+.h1{
+    text-align: center;
+    color: white;
+    text-align: center;
+    
+}
+
+.cuerpoContacto{
+    background-color: #221c22 ;
+}
+
+.tel:hover{
+    transform: scale(1.1);
+    transition-duration: 1.4s;
+
+}
+
+.ema:hover{
+    transform: scale(1.1);
+    transition-duration: 1.4s;
+}
+
+.imgcontact img{
+    
+    margin: 95px 40px;
+    height: 250px;
+    
+   
+    
+    
+}
+
+
+
+/*Estilos para el footer*/
+.contactoPie{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 500;
+}
+.contactoPP{
+    text-align: center;
+    color: aliceblue;
+}
+.logoPie{
+    text-align: center;
+}
+.frasePie{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 25px;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 500;
+}
